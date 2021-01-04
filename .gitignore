@@ -1,0 +1,6 @@
+# Ignore library file, only check-in the source
+division.a
+# Ignore benchmark executable
+benchmark
+# Ignore object files
+*.o
